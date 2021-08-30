@@ -67,36 +67,55 @@ Para cada uno de los circuitos anteriores, elabore una tabla con los resultados 
 
 
 7.8 Preguntas
-¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
-Una bobina en corriente continua actúa diferente que un condensador, es decir deja pasar corriente (ya que las bobinas son realmente cables enrollados que soloconducen), sin embargo, no posee voltaje debido a que las bobinas en cc actúan como un corto circuito (se unen los polos positivo y negativo sin tener una carga)
 
-El capacitor se comporta como un circuito abierto para corriente continua y la bobina como un cortocircuito. En un circuito complementado en corriente continua se puede entender un condensador como un interruptor abierto es decir no deja pasar corriente (por lo que no hay presencia de intensidad) sin embargo esta la presencia de voltaje debido a que en el condensador posee una reactancia.
 
-¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-Bobinas en AC
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)
 
-Cuando las bobinas son sometidas a corriente con frecuencia (A.C.), cumplen su función de inductancia, es decir además de poseer corriente esta también tiene la presencia de voltaje, debido al efecto de frecuencia. Las bobinas se pueden utilizar para “Adelantar voltaje y retrasar corriente”, dependiendo de cómo se utiliza paramejorar el factor de potencia.
+• Los capacitores en un circuito de corriente continua pasan por dos fases conocidas como fase de transición y fase de continua. En la fase de estabilización, se producen los fenómenos que se describen en las curvas de carga del capacitor hasta que se estabiliza y pasa a estar en fase continua, en esta fase la intensidad de corriente que atravesaría el capacitor es igual a cero entonces se lo toma como una “rama abierta” en el circuito.
 
-Condensadores en AC
+• En los inductores al ser la corriente constante la caída de tensión sobre ellos es igual a cero, por lo que lo interpretamos como simplemente un “cable” en el circuito.
 
-En este caso, sucede todo lo contrario: el condensador deja pasar corriente, y tiene la presencia del voltaje, todo debido al efecto que tiene la corriente alterna en el elemento. Loscondensadores se utilizan para “Adelantar corriente y atrasar voltaje”, dependiendo para mejorar el factor de potencia.
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
-¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
-Al colocar dos capacitores o dos bobinas de diferente denominación en elcircuito, se facilita los cálculos al momento de encontrar el valor de Vo porque podemos reducir el circuito a su mínima expresión usando el concepto defasores, en los cuales a las impedancias y a las inductancias las convertimos aldominio fasorial y se representaría como una caja en el circuito a la cual podemos reducirle por el concepto de serie y paralelo.
+• En corriente alterna la capacitancia se comporta de forma distinta que, con la corriente continua, mientras en esta los condensadores se tratan como circuitos abiertos cuando se cargan y no dejan circular la corriente, en alterna no ocurre esto, sino que se tratan como si fueran circuitos cerrados.
 
-¿Qué son los valores eficaces de voltaje y corriente?
-Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, alaplicarla sobre una misma resistencia.En otras palabras, el valor RMS es el valor del voltaje o corriente en CA que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa.
+• Una bobina en una corriente alterna, introduce una oposición denominada reactancia inductiva “XL” la misma que es directamente proporcional al coeficiente de autoinducción (L), cuyo valor se mide en henrios (H), y a la pulsación de la corriente. El ángulo de fase de la bobina en corriente alterna es de 90°. Al permanecer constante la tensión en los extremos de la bobina, no tienen lugar en ella fenómenos de autoinducción y en consecuencia se comporta como un cortocircuito.
+
+3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+Lo único que pasaría en que los valores Vo varíen en función de que tanto se altere el valor de la impedancia. Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión en Vo sería menor y si resulta mayor, la caída de tensión en Vo sería mucho mayor.
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
+
 
 5. VIDEO
 
 
 6. CONCLUSIONES
 
-Se pudo comprobar que los valores obtenidos de los voltajes como de las corrientes fueron muy semejantes a los obtenidos mediante verificar el circuito analiticamente, con unos pequeños margenes de error. Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de superposición, mediante las ecuaciones encontradas, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar la ley antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de los voltajes y corrientes.
+• AL observar los valores de la tablas se puede determinar que los valores pico, voltaje rms y la corriente son 0 cuando la frecuencia de la fuente de voltaje tiene un valor de 0, esto se debe al comportamiento de reactancias y capacitancia en corriente directa.
+
+• Es posible representar la impedancia para cada una de las frecuencias asociadas en los dos circuitos como un número complejo donde predomina en un caso la impedancia capacitiva y en el otro caso la impedancia inductiva Z =R +j(Xl - Xc).
+
+• Utilizar la impedancia Z nos permite realizar cálculos utilizando la ley de ohm para los cálculos.
+
+• El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio.
+
+• Mientras mayor sea la frecuencia la impedancia capacitiva será menor.  Mientras mayor sea la frecuencia la impedancia inductiva será mayor.
 
 7. BIBLIOGRAFIA
-Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
 
-Universidad de los Andes. (2015). Capacitancia e Inductancia [online]Available at: http://wwwprof.uniandes.edu.co/~antsala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf[Accessed 2Jul. 2017]
 
-Sadiku, A. Fundamentos de Circuitos Eléctricos, 5ta edición. Capítulo 11, sección 11.4: "Valor eficaz o rms".
+* Universidad de los Andes. (2015). Capacitancia e Inductancia [online]Available at: http://wwwprof.uniandes.edu.co/~antsala/cursos/FDC/Contenidos/07_Inductancia_y_Capacitancia.pdf[Accessed 2Jul. 2017]
+
+* Sadiku, A. Fundamentos de Circuitos Eléctricos, 5ta edición. Capítulo 11, sección 11.4: "Valor eficaz o rms".
+
+• Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
+
+• .Cazar, M. (2019, 18 febrero). Comportamiento de una bobina en corriente continua y en corriente alterna. Prezi.Com. https://prezi.com/p/ofvyyubqitlz/comportamiento-de-una-bobina-en-corriente-continua-y-en-corriente-alterna/?frame=d00d5b29b8e7fd597b45960609c0e460377e46ea
+
+*Bobinas [Witronica]. (2019, 25 enero). Witronica. http://witronica.com/componentes:bobina
+
+• Morales, J. A. R. (2020, 31 agosto). Funcionamiento del condensador. PASIÓN ELECTRÓNICA. https://pasionelectronica.com/funcionamiento-del-condensador/
