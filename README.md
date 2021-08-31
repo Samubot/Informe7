@@ -74,11 +74,23 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 
 a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
+![](img/lab7-7.jpg)
+
+![](img/lab7-8.jpg)
+
+![](img/lab7-9.jpg)
+
 
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
 
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+![](img/lab7-10.jpg)
+![](img/lab7-11.jpg)
+![](img/lab7-12.jpg)
+![](img/lab7-13.jpg)
+![](img/lab7-14.jpg)
 
 
 7.3 Análisis de resultados
