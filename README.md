@@ -1,3 +1,4 @@
+<img src= img/LOGO.png>
 # Informe7
 ## PRÁCTICA No. 7 INDUCTOR Y CAPACITOR
 
@@ -20,6 +21,10 @@ Los simuladores de circuitos electrónicos son muy útiles para explicar el comp
 
 MARCO TEÓRICO
 
+<img src= img/CAPA.jpg>
+
+<img src= img/INDU.jpg>
+
 3. MATERIAL Y EQUIPO REQUERIDO
 
 | Material o Equipo | 
@@ -36,22 +41,11 @@ MARCO TEÓRICO
 
 7.1 Construya en el protoboard el circuito mostrado en la Figura 1.
 
+<img src= img/FIG1.jpg>
 
 a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
 
-![](img/Lab7-1.jpg)
 
-![](img/Lab7-2.jpg)
-
-![](img/Lab7-3.jpg)
-
-![](img/Lab7-4.jpg)
-
-![](img/Lab7-5.jpg)
-
-![](img/Lab7-6.jpg)
-
-![](img/Lab7-7.jpg)
 
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
