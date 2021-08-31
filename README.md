@@ -54,14 +54,13 @@ a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre
 
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
-![](img/Lab7-4.jpg)
+![](img/lab7-4.jpg)
 
-![](img/Lab7-5.jpg)
+![](img/lab7-5.jpg)
 
-![](img/Lab7-6.jpg)
+![](img/lab7-6.jpg)
 
 
 
