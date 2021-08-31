@@ -1,5 +1,6 @@
 <img src= img/LOGO.png>
 # Informe7
+
 ## PRÁCTICA No. 7 INDUCTOR Y CAPACITOR
 
 1. OBJETIVOS
