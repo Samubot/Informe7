@@ -67,6 +67,8 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 
 7.2 Construya el circuito mostrado en la Figura 2
 
+![](img/FIG2.jpg)
+
 
 Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados.
 
@@ -82,6 +84,10 @@ c. Utilice un multímetro para medir la corriente que atraviesa la resistencia v
 7.3 Análisis de resultados
 
 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+![](img/7.3.1.jpg)
+
+![](img/7.3.2.jpg)
 
 
 7.8 Preguntas
